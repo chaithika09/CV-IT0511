@@ -1,0 +1,8 @@
+import cv2
+from google.colab.patches import cv2_imshow
+img = cv2.imread("/content/yu-chin-tsai-piTEABtlR1Q-unsplash.jpg")
+import cv2
+from google.colab.patches import cv2_imshow
+img = cv2.imread("/content/yu-chin-tsai-piTEABtlR1Q-unsplash.jpg")
+
+
